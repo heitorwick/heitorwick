@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, NODE
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, NODEJS
