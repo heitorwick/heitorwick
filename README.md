@@ -1,6 +1,6 @@
 # Olá! Eu sou o Heitor 👨‍💻
 
-🎓 Estudante de **Engenharia da Computação** 
+🎓 Estudante de **Engenharia da Computação**    
 💻 Atualmente trabalho com **Ruby on Rails** em uma empresa do ramo imobiliário  
 🌐 Também tenho experiência em **JavaScript**, **React**, **HTML** e **CSS**  
 📌 Sempre buscando aprender mais sobre desenvolvimento web e back-end
