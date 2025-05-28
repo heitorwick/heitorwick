@@ -9,11 +9,11 @@
 
 ## 🧠 Tecnologias & Ferramentas
 
-- **Back-end:** Ruby on Rails, Java, Node.js (básico)
+- **Back-end:** Ruby on Rails, Java, Node.js
 - **Front-end:** React.js, HTML5, CSS3
 - **Banco de Dados:** PostgreSQL, SQLite
 - **Versionamento:** Git, GitHub
-- **Outros:** Bootstrap, TailwindCSS (básico), Figma (protótipos)
+- **Outros:** Bootstrap, TailwindCSS, Figma
 
 
 ## 📫 Como me encontrar
